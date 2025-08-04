@@ -1,0 +1,1 @@
+FROM mcp/kubernetes:latest
