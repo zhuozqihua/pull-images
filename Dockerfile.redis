@@ -1,1 +1,1 @@
-FROM docker pull redis:alpine3.22
+FROM redis:alpine3.22
