@@ -1,1 +1,1 @@
-FROM  mcp/gitlab
+FROM  mcp/gitlab:latest
